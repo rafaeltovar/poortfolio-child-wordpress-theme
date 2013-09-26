@@ -1,0 +1,21 @@
+/*
+Theme Name:   Poortfolio child theme
+Theme URI:   http://www.rafaeltovar.info/poortfolio-wordpress-theme
+Description:  Child theme for Poortfolio theme
+Author:     Rafael Tovar
+Author URI:   http: //www.rafaeltovar.info/
+Text Domain: poortfolio-child
+Template:    poortfolio
+Version:    0.1
+*/
+
+/* *******************************************************
+
+Comfortable with SASS?  Check out the /css/scss folder where the rafaeltovar.scss file is the master complier
+
+////////   IMPORTANT!  Make custom edits/changes in the css/scss/rafaeltovar-custom.less file
+////////   to safely retain the ability to update the less files with future versions
+
+## sass --watch css/scss/poortfolio-child.scss:css/poortfolio-child.min.css --style compressed
+
+-------------------------------------------------- */
